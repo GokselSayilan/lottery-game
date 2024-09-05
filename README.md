@@ -4,7 +4,7 @@ This is a fun lottery game where users can choose numbers and see if they match 
 
 ## Live Demo
 
-You can try the app live by visiting [Live Demo](your-live-demo-link).
+You can try the app live by visiting [Live Demo](https://lottery-game-focuscode.vercel.app/).
 
 ![App Screenshot](public/screenshot.png)
 
